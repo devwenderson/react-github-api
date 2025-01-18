@@ -22,7 +22,7 @@ const UserDetail = () => {
 
   return (
     <div>
-      <h1>Buscar usuário</h1>
+      <h1>Buscar usuáriooooo</h1>
       <input
         type="text"
         value={userName}
